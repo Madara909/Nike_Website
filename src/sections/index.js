@@ -1,5 +1,5 @@
 import Hero from "./Hero";
-import Footer from "./footer";
+import Footer from "./Footer";
 import Subscribe from "./Subscribe";
 import SuperQuality from "./SuperQuality";
 import PopularProducts from "./PopularProducts";
